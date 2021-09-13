@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "leveldown": "^6.0.2",
+    "levelup": "^5.0.1",
+    "sqlite": "^4.0.23"
+  }
+}
