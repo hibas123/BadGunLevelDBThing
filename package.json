@@ -1,7 +1,18 @@
 {
+  "name": "gun-leveldb",
+  "version": "1.0.0",
+  "main": "src/leveldb.js",
   "dependencies": {
     "leveldown": "^6.0.2",
     "levelup": "^5.0.1",
     "sqlite": "^4.0.23"
-  }
+  },
+  "peerDependencies": {
+    "gun": "^0.2020.1235"
+  },
+  "files": [
+    "package.json",
+    "src/leveldb.js",
+    "README.md"
+  ]
 }
